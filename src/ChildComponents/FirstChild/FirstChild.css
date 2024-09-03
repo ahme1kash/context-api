@@ -1,0 +1,13 @@
+.first-child {
+    display: flex;
+    margin-top: 3em;
+    justify-content: center;
+    align-items: center;
+}
+
+.data {
+    display: flex;
+    margin-top: 3em;
+    justify-content: center;
+    align-items: center;
+}
